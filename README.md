@@ -1,8 +1,8 @@
 springmvc-bootstrap-mockito
 ===========================
 
-A SpringMVC showcase with Hibernate, Bootstrap, JUnit, Mockito
+A SpringMVC showcase with Hibernate, Bootstrap, JUnit, Mockito, Validation.
 
-This can be used as a sample project to startwith all the mentioned technologies. Could be easily extended to complex applications with various pages.
+This could be used as a sample project to startwith all these technologies. Could be easily extended to complex applications with various pages.
 
-Includes the power of Bootstrap CSS and JUnit, Mockito which is necessaary for a production level application.
+Includes the power of Bootstrap, CSS, JUnit, Mockito which is necessaary for a production level standard application.
