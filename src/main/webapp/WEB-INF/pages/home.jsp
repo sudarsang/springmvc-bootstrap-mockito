@@ -9,6 +9,7 @@
 <body>
 
 <h2>Welcome to Customer manager</h2>
+
 <div style="padding: 25px">
     <a href="add" class="btn btn-primary">Add Customer</a>
     <a href="list" class="btn btn-success">View Customers</a>
